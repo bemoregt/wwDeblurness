@@ -12,7 +12,7 @@ Detect Deblurness of image for Openframeworks.
 - XCode 10.12.x
 - OSX Mojave
 
-###
+### Next Plan
 - DCT blur algorithm merge.
 
 ### Reference
