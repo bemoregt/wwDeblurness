@@ -1,10 +1,10 @@
 # ofxDeblurness
 Detect Deblurness of image for Openframeworks.
 
-![example]( https://github.com/bemoregt/ofxfaceKenburns/blob/master/test.jpg "Example Screenshot")
+![example]( https://github.com/bemoregt/ofxDeblurness/blob/master/test1.png "Example Screenshot")
 - Screenshot
 
-![gif example]( https://github.com/bemoregt/ofxfaceKenburns/blob/master/test.gif "Example Screenshot")
+![gif example]( https://github.com/bemoregt/ofxDeblurness/blob/master/test2.png "Example Screenshot")
 - Test video 
 
 ### Dependency
