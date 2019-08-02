@@ -1,4 +1,4 @@
-# ofxDeblurness
+# wwDeblurness
 Detect Deblurness of image for Openframeworks.
 
 ![example]( https://github.com/bemoregt/ofxDeblurness/blob/master/test1.png "Example Screenshot")
